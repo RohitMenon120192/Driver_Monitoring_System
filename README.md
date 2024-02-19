@@ -1,4 +1,4 @@
-This Repo consist of Driver Monitoring task using Beaglebone Black and Arduino Nano 33 BLE
+# Driver Monitoring System
 
 Problem Statement: The primary issue addressed by this project was the high incidence of road accidents attributable to driver negligence. Existing market solutions for driver monitoring were predominantly incorporated into high-end vehicles or were prohibitively expensive, limiting their accessibility and widespread adoption.
 
